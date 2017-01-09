@@ -1,0 +1,79 @@
+#background_page1 {
+	background-image: url("rose.JPG");
+	background-size: cover;
+	background-repeat: no-repeat;
+	position: relative;
+	min-height: auto;
+	width: auto;
+	height: auto;
+} 
+
+#background_page2 {
+	background-image: url("silver.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	position: relative;
+	min-height: auto;
+	width: auto;
+	height: auto;
+} 
+
+#background_page3 {
+	background-image: url("grey.PNG");
+	background-size: cover;
+	background-repeat: no-repeat;
+	position: relative;
+	min-height: auto;
+	width: auto;
+	height: auto;
+} 
+
+#background_page4 {
+	background-image: url("silver.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	position: relative;
+	min-height: auto;
+	width: auto;
+	height: auto;
+}
+
+
+.navbar {
+  width: 100%;
+  background: none;
+  margin-top: 10px;
+}
+
+
+button {
+
+    background: transparent;
+    border: none !important;
+}
+
+.pull-right {
+    float: right!important;
+}
+
+#navbutton {
+		font-size: 40px;
+		margin-right: 30px;
+}
+
+#collapsingNavbar1 {
+	float: right;
+	font-family: 'Noto Serif', serif;
+	font-size: 20px; 
+	}
+
+.Welcome {
+	font-family: 'Noto Serif', serif;
+}
+
+body, html, .container-fluid {
+  height: 100;
+}
+
+	
+	
